@@ -1,2 +1,4 @@
 # class-test-repository
-Sourcetreeを利用したフォークとクローン、プッシュの練習用リポジトリです
+
+このリポジトリは、Sourcetreeを利用したフォークとクローン、プッシュの練習用に、[菊池](https://researchmap.jp/nobuhikokikuchi)が公開しているものです。
+
